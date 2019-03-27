@@ -49,13 +49,13 @@ border: 1px solid white;
 }
 
 
-button.btn btn-primary btn-lg 
+button
 {
-	margin-top: 10px;
-	float: left;
-	list-style: none;
-	padding-bottom: 30px;
-	padding-left: 150px;
+	background: none;
+	color: #ccc;
+	width: 240px;
+	height: 80px;
+	
 }
 
 
