@@ -8,7 +8,7 @@ header
 {
 	background-image:url(landinghomepage.jpg);
 	height: 100vh;
-	background-size: 5333px 3333px;
+	background-size: cover;
 	background-position:  center;
 }
 
